@@ -57,7 +57,7 @@ I've delivered data solutions across healthcare, insurance, real estate, and HR 
 ## 📫 Connect with Me
 
 - 📧 pharini018@gmail.com  
-- 🔗 [LinkedIn Profile](www.linkedin.com/in/harini-prasanna-dataanalyst)
+- 🔗 [[LinkedIn Profile](www.linkedin.com/in/harini-prasanna-dataanalyst)](https://www.linkedin.com/in/harini-prasanna-dataanalyst/)
 
 ---
 
